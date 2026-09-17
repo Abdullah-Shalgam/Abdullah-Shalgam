@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>👋 أهلاً بك! أنا عبدالله شلغم (Abdullah Shalgam)</h1>
-  <h3>💻 طالب هندسة برمجيات وشغوف بالتطوير المنهجي وبناء الأنظمة</h3>
+  <h1>👋 أهلاً بك! أنا عبدالله شلغوم (Abdullah Shalgam)</h1>
+  <h3>💻 طالب علوم حاسوب بكلية تقنية المعلومات جامعة مصراتة وشغوف بالتطوير المنهجي وبناء الأنظمة</h3>
 
   <p>
     <a href="https://github.com/Abdullah-Shalgam">
@@ -48,18 +48,6 @@
 | 🏦 **[NexusBank Core OOP Engine](https://github.com/Abdullah-Shalgam/NexusBank-Core-OOP-Engine)** | محرك إداري واستثماري للمصارف يعتمد على البرمجة الكائنية الصارمة، إدارة العملات، وصلاحيات المستخدمين. | `C++17` • `OOP` • `File I/O` |
 | 🗺️ **[Programming Advices Journey](https://github.com/Abdullah-Shalgam/Programming-Advices-Journey)** | المستودع الرئيسي لرحلتي التعليمية وتوثيق التطبيقات الممتدة من الكورس 3 إلى الكورس 14. | `C++` • `C#` • `Data Structures` |
 | 💳 **[Bank Management & ATM System](https://github.com/Abdullah-Shalgam/Bank-Management-and-ATM-System-CPP)** | نظام بنكي متكامل وشامل عبر واجهة السطر البرمجي مع الصراف الآلي وقواعد بيانات نصية. | `C++` • `Algorithms` |
-| 🎮 **[CLI Math Game](https://github.com/Abdullah-Shalgam/cli-math-game-cpp)** | لعبة اختبارات رياضية تفاعلية تعتمد على توليد الأسئلة وتقييم الأداء بشكل حي. | `C++` • `Modular Code` |
-
----
-
-### 📊 إحصائيات GitHub (GitHub Stats)
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shalgam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Abdullah's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shalgam&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-
-</div>
 
 ---
 
